@@ -1,0 +1,25 @@
+body{
+  background: url(../img/montanas-nevadas.jpg);
+  background-attachment: fixed;
+  background-repeat: round;
+}
+.nav{
+  text-align: center;
+  position: fixed;
+}
+#cabecera{
+  padding-top: 1%;
+}
+.logo{
+  display: block;
+  text-align: center;
+}
+#menu{
+  text-align: center;
+}
+#titulo{
+  padding-top: 5%;
+  font-size: 250%;
+  text-align: center;
+  text-shadow: 2px 2px 2px #02010a;
+}
