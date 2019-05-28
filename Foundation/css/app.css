@@ -1,0 +1,11 @@
+body{
+  background: url(../img/cocina2.jpg);
+  background-attachment: fixed;
+  background-repeat: round;
+}
+.row{
+  background-color: rgba(204, 209, 209, 0.5);
+}
+#color-fondo{
+  background: rgba(253, 235, 208, 0.9);
+}

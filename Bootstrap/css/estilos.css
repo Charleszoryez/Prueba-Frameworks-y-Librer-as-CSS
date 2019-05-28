@@ -1,0 +1,17 @@
+body{
+  background: url(../img/fondo.jpg);
+}
+.img-social{
+  height: 50px;
+  width: 50px;
+  margin-top: 170px;
+}
+
+.header{
+  background-color: white;
+
+}
+.container{
+  background-color: #5DADE2;
+}
+\
